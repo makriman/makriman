@@ -1,0 +1,5 @@
+=== dig www.makriman.com A ===
+makriman.com.		1800	IN	SOA	clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800
+=== dig www.makriman.com AAAA ===
+=== dig www.makriman.com CNAME ===
+=== dig www.makriman.com TXT ===

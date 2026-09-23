@@ -1,0 +1,35 @@
+{
+  "$comment": "PROPOSED ONLY — do not apply until founder chooses park quiet vs holding page vs soft-redirect target. Mutually exclusive option packs. Founder undecided — this burn does NOT pick.",
+  "zone": "makriman.com",
+  "lander_hold": "2026-09-06 Chief: do not ship any makriman.com lander until founder greenlights tone/links. Brand-intent widget was skipped → continue under park/hold.",
+  "options": {
+    "A_park_quiet_keep_ns_only": {
+      "description": "Leave records empty; retain registration + NS. Matches current honest posture and LANDER HOLD.",
+      "records_to_add": []
+    },
+    "B_park_with_holding_page_or_Pages": {
+      "description": "After founder approves tone/links: Workers custom domain or Pages route + proxied A/AAAA or CNAME. Copy must be dormant personal-brand park language (see honest-park-copy.md). Optional future park-with-Pages — not chosen here.",
+      "records_to_add_example": [
+        {"type":"AAAA","name":"@","content":"100::","proxied":true,"comment":"CF Workers/Pages placeholder — replace with actual route target"},
+        {"type":"CNAME","name":"www","content":"makriman.com","proxied":true}
+      ],
+      "also_requires": ["Workers script or Pages project", "honest park HTML with noindex", "SSL Full (strict) once origin exists", "founder greenlight on tone/links"]
+    },
+    "C_soft_redirect_github_or_medium": {
+      "description": "After founder picks ONE target: soft-redirect apex+www → https://github.com/makriman OR https://makriman.medium.com (archive). Do not invent target; do not frame as GIC company lander.",
+      "records_to_add_example": [
+        {"type":"AAAA","name":"@","content":"100::","proxied":true,"comment":"Workers route for redirect"},
+        {"type":"CNAME","name":"www","content":"makriman.com","proxied":true}
+      ],
+      "also_requires": ["redirect Worker scoped to makriman.com zone", "founder-confirmed target URL (GitHub profile XOR Medium)"]
+    }
+  },
+  "explicitly_not_proposed_now": [
+    "MX / email receiving",
+    "SPF/DKIM/DMARC claiming active mail",
+    "Product lander claiming live company or hiring",
+    "GIC company lander framing for makriman.com",
+    "Kill/let-lapse before prepaid expiry (through 2036-08-14)",
+    "Merging existing GH draft PRs #1/#2/#3"
+  ]
+}

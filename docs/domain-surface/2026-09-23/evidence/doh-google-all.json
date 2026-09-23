@@ -1,0 +1,290 @@
+{
+  "queried_at": "2026-09-23",
+  "resolver": "dns.google",
+  "apex": {
+    "NS": {
+      "Status": 0,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "makriman.com.",
+          "type": 2
+        }
+      ],
+      "Answer": [
+        {
+          "name": "makriman.com.",
+          "type": 2,
+          "TTL": 21600,
+          "data": "jessica.ns.cloudflare.com."
+        },
+        {
+          "name": "makriman.com.",
+          "type": 2,
+          "TTL": 21600,
+          "data": "clyde.ns.cloudflare.com."
+        }
+      ],
+      "Comment": "Response from 172.64.32.171."
+    },
+    "A": {
+      "Status": 0,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "makriman.com.",
+          "type": 1
+        }
+      ],
+      "Authority": [
+        {
+          "name": "makriman.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800"
+        }
+      ],
+      "Comment": "Response from 172.64.32.171."
+    },
+    "AAAA": {
+      "Status": 0,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "makriman.com.",
+          "type": 28
+        }
+      ],
+      "Authority": [
+        {
+          "name": "makriman.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800"
+        }
+      ],
+      "Comment": "Response from 108.162.192.171."
+    },
+    "MX": {
+      "Status": 0,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "makriman.com.",
+          "type": 15
+        }
+      ],
+      "Authority": [
+        {
+          "name": "makriman.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800"
+        }
+      ],
+      "Comment": "Response from 172.64.33.91."
+    },
+    "TXT": {
+      "Status": 0,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "makriman.com.",
+          "type": 16
+        }
+      ],
+      "Authority": [
+        {
+          "name": "makriman.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800"
+        }
+      ],
+      "Comment": "Response from 172.64.32.171."
+    },
+    "CNAME": {
+      "Status": 0,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "makriman.com.",
+          "type": 5
+        }
+      ],
+      "Authority": [
+        {
+          "name": "makriman.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800"
+        }
+      ],
+      "Comment": "Response from 108.162.193.91."
+    },
+    "SOA": {
+      "Status": 0,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "makriman.com.",
+          "type": 6
+        }
+      ],
+      "Answer": [
+        {
+          "name": "makriman.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800"
+        }
+      ],
+      "Comment": "Response from 172.64.32.171."
+    },
+    "CAA": {
+      "Status": 0,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "makriman.com.",
+          "type": 257
+        }
+      ],
+      "Authority": [
+        {
+          "name": "makriman.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800"
+        }
+      ],
+      "Comment": "Response from 172.64.33.91."
+    }
+  },
+  "www": {
+    "A": {
+      "Status": 3,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "www.makriman.com.",
+          "type": 1
+        }
+      ],
+      "Authority": [
+        {
+          "name": "makriman.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800"
+        }
+      ],
+      "Comment": "Response from 173.245.59.91."
+    },
+    "AAAA": {
+      "Status": 3,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "www.makriman.com.",
+          "type": 28
+        }
+      ],
+      "Authority": [
+        {
+          "name": "makriman.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800"
+        }
+      ],
+      "Comment": "Response from 108.162.192.171."
+    },
+    "CNAME": {
+      "Status": 3,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "www.makriman.com.",
+          "type": 5
+        }
+      ],
+      "Authority": [
+        {
+          "name": "makriman.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800"
+        }
+      ],
+      "Comment": "Response from 172.64.32.171."
+    },
+    "TXT": {
+      "Status": 3,
+      "TC": false,
+      "RD": true,
+      "RA": true,
+      "AD": false,
+      "CD": false,
+      "Question": [
+        {
+          "name": "www.makriman.com.",
+          "type": 16
+        }
+      ],
+      "Authority": [
+        {
+          "name": "makriman.com.",
+          "type": 6,
+          "TTL": 1800,
+          "data": "clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800"
+        }
+      ],
+      "Comment": "Response from 172.64.32.171."
+    }
+  }
+}

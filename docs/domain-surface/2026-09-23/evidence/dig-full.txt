@@ -1,0 +1,316 @@
+===== FULL DIG DUMP makriman.com Wed, 23 Sep 2026 12:33:13 -0700 =====
+----- NS -----
+
+; <<>> DiG 9.20.29-1~deb13u1-Debian <<>> makriman.com NS
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58217
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;makriman.com.			IN	NS
+
+;; ANSWER SECTION:
+makriman.com.		86400	IN	NS	clyde.ns.cloudflare.com.
+makriman.com.		86400	IN	NS	jessica.ns.cloudflare.com.
+
+;; Query time: 15 msec
+;; SERVER: 10.0.0.2#53(10.0.0.2) (UDP)
+;; WHEN: Wed Sep 23 12:33:13 PDT 2026
+;; MSG SIZE  rcvd: 97
+
+
+----- A -----
+
+; <<>> DiG 9.20.29-1~deb13u1-Debian <<>> makriman.com A
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20835
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;makriman.com.			IN	A
+
+;; AUTHORITY SECTION:
+makriman.com.		1800	IN	SOA	clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800
+
+;; Query time: 0 msec
+;; SERVER: 10.0.0.2#53(10.0.0.2) (UDP)
+;; WHEN: Wed Sep 23 12:33:13 PDT 2026
+;; MSG SIZE  rcvd: 130
+
+
+----- AAAA -----
+
+; <<>> DiG 9.20.29-1~deb13u1-Debian <<>> makriman.com AAAA
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37208
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;makriman.com.			IN	AAAA
+
+;; AUTHORITY SECTION:
+makriman.com.		1800	IN	SOA	clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800
+
+;; Query time: 0 msec
+;; SERVER: 10.0.0.2#53(10.0.0.2) (UDP)
+;; WHEN: Wed Sep 23 12:33:13 PDT 2026
+;; MSG SIZE  rcvd: 130
+
+
+----- MX -----
+
+; <<>> DiG 9.20.29-1~deb13u1-Debian <<>> makriman.com MX
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25558
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;makriman.com.			IN	MX
+
+;; AUTHORITY SECTION:
+makriman.com.		1800	IN	SOA	clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800
+
+;; Query time: 7 msec
+;; SERVER: 10.0.0.2#53(10.0.0.2) (UDP)
+;; WHEN: Wed Sep 23 12:33:13 PDT 2026
+;; MSG SIZE  rcvd: 101
+
+
+----- TXT -----
+
+; <<>> DiG 9.20.29-1~deb13u1-Debian <<>> makriman.com TXT
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62293
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;makriman.com.			IN	TXT
+
+;; AUTHORITY SECTION:
+makriman.com.		1800	IN	SOA	clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800
+
+;; Query time: 3 msec
+;; SERVER: 10.0.0.2#53(10.0.0.2) (UDP)
+;; WHEN: Wed Sep 23 12:33:13 PDT 2026
+;; MSG SIZE  rcvd: 101
+
+
+----- CNAME -----
+
+; <<>> DiG 9.20.29-1~deb13u1-Debian <<>> makriman.com CNAME
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33791
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;makriman.com.			IN	CNAME
+
+;; AUTHORITY SECTION:
+makriman.com.		1799	IN	SOA	clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800
+
+;; Query time: 3 msec
+;; SERVER: 10.0.0.2#53(10.0.0.2) (UDP)
+;; WHEN: Wed Sep 23 12:33:13 PDT 2026
+;; MSG SIZE  rcvd: 101
+
+
+----- SOA -----
+
+; <<>> DiG 9.20.29-1~deb13u1-Debian <<>> makriman.com SOA
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22541
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;makriman.com.			IN	SOA
+
+;; ANSWER SECTION:
+makriman.com.		1800	IN	SOA	clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800
+
+;; Query time: 7 msec
+;; SERVER: 10.0.0.2#53(10.0.0.2) (UDP)
+;; WHEN: Wed Sep 23 12:33:14 PDT 2026
+;; MSG SIZE  rcvd: 101
+
+
+----- CAA -----
+
+; <<>> DiG 9.20.29-1~deb13u1-Debian <<>> makriman.com CAA
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51794
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;makriman.com.			IN	CAA
+
+;; AUTHORITY SECTION:
+makriman.com.		1799	IN	SOA	clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800
+
+;; Query time: 7 msec
+;; SERVER: 10.0.0.2#53(10.0.0.2) (UDP)
+;; WHEN: Wed Sep 23 12:33:14 PDT 2026
+;; MSG SIZE  rcvd: 101
+
+
+===== www =====
+----- www A -----
+
+; <<>> DiG 9.20.29-1~deb13u1-Debian <<>> www.makriman.com A
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 44446
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.makriman.com.		IN	A
+
+;; AUTHORITY SECTION:
+makriman.com.		1800	IN	SOA	clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800
+
+;; Query time: 0 msec
+;; SERVER: 10.0.0.2#53(10.0.0.2) (UDP)
+;; WHEN: Wed Sep 23 12:33:14 PDT 2026
+;; MSG SIZE  rcvd: 134
+
+
+----- www AAAA -----
+
+; <<>> DiG 9.20.29-1~deb13u1-Debian <<>> www.makriman.com AAAA
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 13301
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.makriman.com.		IN	AAAA
+
+;; AUTHORITY SECTION:
+makriman.com.		1800	IN	SOA	clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800
+
+;; Query time: 0 msec
+;; SERVER: 10.0.0.2#53(10.0.0.2) (UDP)
+;; WHEN: Wed Sep 23 12:33:14 PDT 2026
+;; MSG SIZE  rcvd: 134
+
+
+----- www CNAME -----
+
+; <<>> DiG 9.20.29-1~deb13u1-Debian <<>> www.makriman.com CNAME
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 20144
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.makriman.com.		IN	CNAME
+
+;; AUTHORITY SECTION:
+makriman.com.		1799	IN	SOA	clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800
+
+;; Query time: 11 msec
+;; SERVER: 10.0.0.2#53(10.0.0.2) (UDP)
+;; WHEN: Wed Sep 23 12:33:14 PDT 2026
+;; MSG SIZE  rcvd: 105
+
+
+----- www TXT -----
+
+; <<>> DiG 9.20.29-1~deb13u1-Debian <<>> www.makriman.com TXT
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 36760
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.makriman.com.		IN	TXT
+
+;; AUTHORITY SECTION:
+makriman.com.		1799	IN	SOA	clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800
+
+;; Query time: 11 msec
+;; SERVER: 10.0.0.2#53(10.0.0.2) (UDP)
+;; WHEN: Wed Sep 23 12:33:14 PDT 2026
+;; MSG SIZE  rcvd: 105
+
+
+===== common subs (A) =====
+mail.makriman.com A: mail.makriman.com CNAME: api.makriman.com A: api.makriman.com CNAME: app.makriman.com A: app.makriman.com CNAME: staging.makriman.com A: staging.makriman.com CNAME: blog.makriman.com A: blog.makriman.com CNAME: cdn.makriman.com A: cdn.makriman.com CNAME: static.makriman.com A: static.makriman.com CNAME: assets.makriman.com A: assets.makriman.com CNAME: admin.makriman.com A: admin.makriman.com CNAME: portal.makriman.com A: portal.makriman.com CNAME: login.makriman.com A: login.makriman.com CNAME: auth.makriman.com A: auth.makriman.com CNAME: docs.makriman.com A: docs.makriman.com CNAME: status.makriman.com A: status.makriman.com CNAME: ftp.makriman.com A: ftp.makriman.com CNAME: smtp.makriman.com A: smtp.makriman.com CNAME: imap.makriman.com A: imap.makriman.com CNAME: pop.makriman.com A: pop.makriman.com CNAME: mx.makriman.com A: mx.makriman.com CNAME: ns1.makriman.com A: ns1.makriman.com CNAME: ns2.makriman.com A: ns2.makriman.com CNAME: www.makriman.com A: www.makriman.com CNAME: ===== +trace (may timeout) =====
+
+; <<>> DiG 9.20.29-1~deb13u1-Debian <<>> +trace +nodnssec makriman.com NS
+;; global options: +cmd
+.			86299	IN	NS	j.root-servers.net.
+.			86299	IN	NS	l.root-servers.net.
+.			86299	IN	NS	g.root-servers.net.
+.			86299	IN	NS	e.root-servers.net.
+.			86299	IN	NS	i.root-servers.net.
+.			86299	IN	NS	c.root-servers.net.
+.			86299	IN	NS	h.root-servers.net.
+.			86299	IN	NS	d.root-servers.net.
+.			86299	IN	NS	b.root-servers.net.
+.			86299	IN	NS	k.root-servers.net.
+.			86299	IN	NS	f.root-servers.net.
+.			86299	IN	NS	m.root-servers.net.
+.			86299	IN	NS	a.root-servers.net.
+;; Received 239 bytes from 10.0.0.2#53(10.0.0.2) in 0 ms
+
+;; communications error to 198.97.190.53#53: timed out
+;; communications error to 198.97.190.53#53: timed out
+;; communications error to 198.97.190.53#53: timed out
+;; communications error to 199.7.83.42#53: timed out
+;; UDP setup with 2001:500:9f::42#53(2001:500:9f::42) for makriman.com failed: network unreachable.
+;; UDP setup with 2001:500:12::d0d#53(2001:500:12::d0d) for makriman.com failed: network unreachable.
+;; communications error to 192.58.128.30#53: timed out
+;; UDP setup with 2001:7fe::53#53(2001:7fe::53) for makriman.com failed: network unreachable.
+;; UDP setup with 2801:1b8:10::b#53(2801:1b8:10::b) for makriman.com failed: network unreachable.
+;; UDP setup with 2001:500:a8::e#53(2001:500:a8::e) for makriman.com failed: network unreachable.
+;; UDP setup with 2001:503:c27::2:30#53(2001:503:c27::2:30) for makriman.com failed: network unreachable.
+;; communications error to 192.112.36.4#53: timed out
+;; UDP setup with 2001:503:ba3e::2:30#53(2001:503:ba3e::2:30) for makriman.com failed: network unreachable.
+;; communications error to 199.7.91.13#53: timed out
+;; UDP setup with 2001:500:2d::d#53(2001:500:2d::d) for makriman.com failed: network unreachable.
+;; UDP setup with 2001:dc3::35#53(2001:dc3::35) for makriman.com failed: network unreachable.
+;; UDP setup with 2001:500:2::c#53(2001:500:2::c) for makriman.com failed: network unreachable.
+;; communications error to 192.36.148.17#53: timed out
+;; UDP setup with 2001:7fd::1#53(2001:7fd::1) for makriman.com failed: network unreachable.
+;; communications error to 202.12.27.33#53: timed out
+;; communications error to 198.41.0.4#53: timed out
+;; communications error to 193.0.14.129#53: timed out
+;; UDP setup with 2001:500:2f::f#53(2001:500:2f::f) for makriman.com failed: network unreachable.
+;; communications error to 170.247.170.2#53: timed out
+;; communications error to 192.203.230.10#53: timed out
+;; communications error to 192.33.4.12#53: timed out
+;; UDP setup with 2001:500:1::53#53(2001:500:1::53) for makriman.com failed: network unreachable.
+;; communications error to 192.5.5.241#53: timed out
+;; no servers could be reached
