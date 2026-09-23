@@ -1,37 +1,27 @@
 # Security Policy
 
-Security matters for this project because public repositories often connect to real users, provider APIs, deployment systems, or operational data.
+This repository is a public GitHub profile README and accompanying Markdown. It has no application, routes, APIs, client bundle, or release line.
 
-## Reporting a Vulnerability
+## Reporting a vulnerability
 
-Please do not open a public GitHub issue for security problems.
+Do not open a public GitHub issue for secrets, credentials, or anything that should stay private.
 
-If you find a vulnerability, contact the repository owner privately with:
+Contact the repository owner through GitHub. Use a private security advisory:
 
-- A short summary.
-- Steps to reproduce.
-- The affected route, API, package, or workflow.
-- Screenshots or logs with secrets removed.
-- The impact you believe it may have.
+https://github.com/makriman/makriman/security/advisories/new
 
-If you are unsure whether something is security-sensitive, report it privately first.
+This repository does not publish a separate email address for security reports.
 
-## Report Privately
+Include a short summary, where it appears (file, link, or rendered profile), and why you believe it is sensitive. If you are unsure, report it privately first.
 
-- Exposed API keys, OAuth secrets, database URLs, or tokens.
-- Authentication or authorization bypasses.
-- Cross-user data exposure.
-- Prompt or tool behavior that leaks private data.
-- Unsafe file, network, or database access.
-- Admin route bypasses.
-- Production data leaks.
+## What to report privately
 
-## Secrets and Data
+- A secret, token, key, or credential committed or pasted into this repo.
+- A link or document here that exposes private data.
+- Anything else that would be harmful to discuss in a public issue.
 
-- Never commit env files, provider keys, tokens, database dumps, or production user data.
-- Keep model provider keys and integration credentials outside client bundles.
-- Avoid logging personal data, private content, or raw secrets.
+Typos, broken public links, and profile rendering problems are ordinary issues, not security reports.
 
-## Supported Versions
+## Secrets
 
-Security fixes target the current default branch unless maintainers announce a release policy.
+Do not commit tokens, keys, environment files, or private personal data.

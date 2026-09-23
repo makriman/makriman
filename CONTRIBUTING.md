@@ -1,56 +1,25 @@
 # Contributing to Ramu / makriman
 
-Thank you for wanting to help.
+This repository is the public GitHub profile for Ramakrishnan Lokanathan (`makriman`). What visitors see is `README.md`, plus Markdown docs in this repo. It is not an application. There is nothing to install, no test suite, and no deployment.
 
-This project exists because useful software gets better when people can understand it, run it, question it, and improve it. Contributions are welcome from engineers, designers, educators, operators, writers, testers, and curious users.
+## How to contribute
 
-## How to Contribute
+1. Open an issue for a typo, a broken link, Markdown that renders badly on the profile, or a gap in the docs.
+2. For a change, open a pull request from a branch. Do not commit directly to `main`.
+3. Keep the pull request limited to the profile README or the docs it actually touches.
 
-1. Open an issue for bugs, ideas, accessibility problems, documentation gaps, or confusing behavior.
-2. Keep pull requests focused and easy to review.
-3. Include screenshots or short recordings for UI changes.
-4. Include reproduction steps for bugs.
-5. Run the checks before asking for review.
-
-## Local Setup
-
-```bash
-Edit README.md
-Commit changes to main
-```
-
-## Checks
-
-```bash
-Review the rendered GitHub profile after pushing
-```
-
-## Pull Request Expectations
-
-Please include:
+## What a useful pull request includes
 
 - What changed.
 - Why it changed.
-- How it was tested.
-- Screenshots for visual changes.
-- Any migration, environment, deployment, or data notes.
+- How you checked it. For `README.md`, read the Markdown and, once it is on GitHub, look at the rendered profile. There are no project checks, screenshots of an app, or deploy steps to run.
 
-## Areas That Need Care
+## Out of scope
 
-- Product clarity: make the experience easier to understand.
-- Accessibility: keyboard navigation, semantic markup, contrast, and screen reader support.
-- Reliability: tests, validation, error states, and deployment hygiene.
-- Security: keep secrets server-side and avoid logging private user data.
-- Documentation: help the next contributor build context quickly.
+Do not add setup commands, UI click-paths, test plans, accessibility audits of an interface, or deployment notes. Those describe software this repository does not contain.
 
-## Code Style
-
-- Prefer the patterns already used in the repository.
-- Keep changes scoped.
-- Avoid new dependencies unless they remove real complexity.
-- Add comments only where they explain non-obvious behavior.
-- Never commit real secrets, production data, provider keys, or private user content.
+Do not commit secrets, tokens, private contact details, or other personal data.
 
 ## Community
 
-Be generous with context. Assume people are here because they care about making the project better.
+Be direct, kind, and specific. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Report anything sensitive in private, as described in [SECURITY.md](SECURITY.md).

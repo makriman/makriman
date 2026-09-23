@@ -1,17 +1,17 @@
 ## Summary
 
-What changed?
+What changed in the profile README or docs?
 
 ## Why
 
-Why is this useful?
+Why is this useful for the public profile?
 
-## Testing
+## Check
 
-- [ ] I ran the relevant checks listed in the README
-- [ ] I added screenshots or recordings for UI changes
-- [ ] I documented environment, migration, or deployment notes if needed
+- [ ] I read the Markdown I changed
+- [ ] If this changes `README.md`, I considered how it will render on the GitHub profile
+- [ ] I did not add secrets, private contact details, or instructions for an app or deploy this repo does not have
 
 ## Notes
 
-Mention follow-up work, risks, or assumptions.
+Follow-up, risks, or assumptions.

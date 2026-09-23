@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report something that is not working as expected
+about: Report a broken link, typo, or profile rendering problem
 title: "[Bug] "
 labels: bug
 assignees: ""
@@ -8,29 +8,18 @@ assignees: ""
 
 ## What happened?
 
-Describe the bug clearly.
+Describe the problem. Typical reports are a broken link, a typo, or Markdown that renders badly on the GitHub profile.
 
-## How to reproduce
+## Where
 
-1. Go to:
-2. Click:
-3. Type:
-4. See:
+- File (for example `README.md`):
+- Link or heading, if any:
+- What you saw on the rendered profile, if you checked it:
 
-## Expected behavior
+## Expected
 
-What should have happened?
-
-## Screenshots
-
-Add screenshots or a short recording if this is visual.
-
-## Device and environment
-
-- Device:
-- Browser or runtime:
-- Screen size, if relevant:
+What should the profile or doc say instead?
 
 ## Extra context
 
-Anything else that helps us understand the issue.
+Anything else that helps, such as a screenshot of the rendered GitHub profile.
