@@ -1,0 +1,11 @@
+=== dig makriman.com NS ===
+makriman.com.		86400	IN	NS	jessica.ns.cloudflare.com.
+makriman.com.		86400	IN	NS	clyde.ns.cloudflare.com.
+=== dig makriman.com A ===
+=== dig makriman.com AAAA ===
+=== dig makriman.com MX ===
+=== dig makriman.com TXT ===
+=== dig makriman.com CNAME ===
+=== dig makriman.com SOA ===
+makriman.com.		1800	IN	SOA	clyde.ns.cloudflare.com. dns.cloudflare.com. 2412273951 10000 2400 604800 1800
+=== dig makriman.com CAA ===

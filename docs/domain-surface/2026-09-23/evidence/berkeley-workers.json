@@ -1,0 +1,21 @@
+{
+  "account_id": "3640dd6b50428f619dbeb525c714382c",
+  "account_name": "Makriman@berkeley.edu's Account",
+  "queried_at_pt": "2026-09-23 ~12:35 PT",
+  "note": "Secondary account check; zone claimed on GIC. No makriman.com Worker names observed.",
+  "workers": [
+    "io-media",
+    "bumpa-bestie-sandbox",
+    "eslams-avatar-maintenance-production",
+    "eslams-avatar-maintenance-staging",
+    "andrew-judgment-site",
+    "eslams-api-staging",
+    "eslams-web-staging",
+    "eslams-web-production",
+    "eslams-api-production"
+  ],
+  "makriman_named": [],
+  "count": 9,
+  "r2_name_contains_makri": [],
+  "source": "user-Cloudflare-bindings workers_list + r2_buckets_list(name_contains=makri)"
+}

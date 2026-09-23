@@ -1,0 +1,23 @@
+{
+  "domain": "makriman.com",
+  "queried_at_pt": "2026-09-23 ~12:33 PT",
+  "unique_cert_rows": 24,
+  "current_cf_era_2026": [
+    {
+      "issuer": "Cloudflare TLS Issuing ECC CA 4",
+      "cn": "makriman.com",
+      "sans": "*.makriman.com + makriman.com",
+      "not_before": "2026-08-15T09:53:44",
+      "not_after": "2026-11-12T23:52:19"
+    },
+    {
+      "issuer": "WE1",
+      "cn": "makriman.com",
+      "sans": "*.makriman.com + makriman.com",
+      "not_before": "2026-08-14T22:54:43",
+      "not_after": "2026-11-12T23:52:15"
+    }
+  ],
+  "historical_note": "Pre-2026 CT includes GoDaddy leafs (e.g. 2024-09) and earlier Cloudflare/GTS \u2014 consistent with prior GoDaddy registration cancelled ~2024-09 and CF re-register 2026-08-14.",
+  "historical_count": 22
+}

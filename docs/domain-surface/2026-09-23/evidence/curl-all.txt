@@ -1,0 +1,31 @@
+===== curl -vI https://makriman.com =====
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Could not resolve host: makriman.com
+* shutting down connection #0
+curl: (6) Could not resolve host: makriman.com
+EXIT=6
+
+===== curl -vI http://makriman.com =====
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Could not resolve host: makriman.com
+* shutting down connection #0
+curl: (6) Could not resolve host: makriman.com
+EXIT=6
+
+===== curl -vI https://www.makriman.com =====
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Could not resolve host: www.makriman.com
+* shutting down connection #0
+curl: (6) Could not resolve host: www.makriman.com
+EXIT=6
+
+===== curl -vI http://www.makriman.com =====
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Could not resolve host: www.makriman.com
+* shutting down connection #0
+curl: (6) Could not resolve host: www.makriman.com
+EXIT=6

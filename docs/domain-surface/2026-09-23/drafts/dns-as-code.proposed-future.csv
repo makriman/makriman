@@ -1,0 +1,6 @@
+option,type,name,content,proxied,ttl,status,notes
+A_park_quiet,,,,,,,,,KEEP EMPTY — current honest posture + LANDER HOLD
+B_park_holding,AAAA,@,100::,true,auto,NOT_APPLIED,Workers/Pages placeholder only after founder park+page tone/links greenlight
+B_park_holding,CNAME,www,makriman.com,true,auto,NOT_APPLIED,www → apex once apex has Worker/Pages
+C_soft_redirect,AAAA,@,100::,true,auto,NOT_APPLIED,Worker 301 to GitHub profile OR Medium — founder must confirm ONE target
+C_soft_redirect,CNAME,www,makriman.com,true,auto,NOT_APPLIED,www → apex once redirect Worker live
