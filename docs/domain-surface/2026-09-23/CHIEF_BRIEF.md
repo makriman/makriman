@@ -2,7 +2,7 @@
 **2026-09-23 ~12:36 PT · Makriman agent · makriman.com**
 
 ## Bottom line
-makriman.com is still a **dormant personal-brand hold**, not a live company or product site. Public DNS is **NS-only** (clyde/jessica). Site **does not resolve**; www **NXDOMAIN**. No makriman Worker/Pages/R2 on GIC (or Berkeley). **LANDER HOLD** (2026-09-06) still applies — no lander shipped. GH profile README repo **exists** with open draft PRs #1–#3 (left alone). Park/DNS/security artifacts under `/workspace/makriman-burn-2026-09-23/`. **Zero DNS/deploy mutations** this burn. Domain-surface draft PR: **pending Cloud Agent**.
+makriman.com is still a **dormant personal-brand hold**, not a live company or product site. Public DNS is **NS-only** (clyde/jessica). Site **does not resolve**; www **NXDOMAIN**. No makriman Worker/Pages/R2 on GIC (or Berkeley). **LANDER HOLD** (2026-09-06) still applies — no lander shipped. GH profile README repo **exists** with open draft PRs #1–#3 (left alone). Park/DNS/security artifacts under `/workspace/makriman-burn-2026-09-23/`. **Zero DNS/deploy mutations** this burn. Domain-surface draft PR: https://github.com/makriman/makriman/pull/4 (open draft).
 
 ## Verified vs 2026-09-06
 | Claim | Still true? |
@@ -29,5 +29,5 @@ No live false-active lander. Proposed dormant park + soft-redirect (GitHub **or*
 - Full report: `/workspace/makriman-burn-2026-09-23/REPORT.md`
 - Drafts: `/workspace/makriman-burn-2026-09-23/drafts/`
 - Evidence: `/workspace/makriman-burn-2026-09-23/evidence/`
-- PR URL: **pending Cloud Agent** (suggested layout `docs/domain-surface/2026-09-23/`)
+- PR URL: https://github.com/makriman/makriman/pull/4 — path `docs/domain-surface/2026-09-23/`
 - Blocks: none (Auto-review). Audit gap: CF zone settings API only; dig +trace root timeouts (direct queries OK).
