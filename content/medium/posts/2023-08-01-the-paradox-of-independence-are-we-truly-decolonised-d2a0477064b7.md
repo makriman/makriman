@@ -1,0 +1,12 @@
+---
+title: "The Paradox of Independence: Are We Truly Decolonised?"
+slug: the-paradox-of-independence-are-we-truly-decolonised-d2a0477064b7
+canonical_url: https://makriman.medium.com/the-paradox-of-independence-are-we-truly-decolonised-d2a0477064b7
+published: 2023-08-01T08:50:17Z
+published_date: 2023-08-01
+tags: ["india"]
+source: medium
+medium_guid: https://medium.com/p/d2a0477064b7
+---
+
+<figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*Zv-49YPcnsgBFnxXMKtPvg.jpeg" /><figcaption>Indian Independence in 1947</figcaption></figure><p>We, as Indians, have been independent for over 75 years. But have we truly decolonised our minds? Or are we still shackled by the chains of a colonial mindset that we’ve inherited and nurtured, often unknowingly?</p><p>The hegemony of Western literature has come to an end, but have we, as Indians, done enough to challenge the Western narrative? We’ve been granted independence, but have we truly gained it? We accepted the partition of our country in 1947, but did we shatter our Indian identity in the process?</p><p>The Indian novel has been a subject of debate post-independence. Is there a distinct literary form such as the Indian novel? Or is it just a variation of the Western novel? Are we defining our identity in the language of our erstwhile colonial masters?</p><p>The spirit that we seek to exorcise has infiltrated the very mantra through which we seek to exorcise it. Isn’t that a paradox? The question of tradition versus modernity, regional versus national identity, and the aesthetic one of experimentalism versus the assimilation of indigenous forms can only be resolved in the perspective of decolonisation. But how aware and active are we in this process?</p><p>It’s time we truly decolonise our minds. It’s time we break free from the unseen chains. But what is the purpose of this decolonisation? Is it just another societal construct we’ve created?</p><p>It’s time we reclaim our identity. It’s time we write our own narrative.</p><blockquote>thought inspired 5 years ago from <a href="https://www.jstor.org/stable/23337172">https://www.jstor.org/stable/23337172</a></blockquote><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=d2a0477064b7" width="1" height="1" alt="">
