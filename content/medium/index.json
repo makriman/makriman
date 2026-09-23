@@ -1,0 +1,139 @@
+{
+  "source": "https://makriman.medium.com/feed",
+  "profile": "https://makriman.medium.com",
+  "author": "Ramakrishnan Lokanathan",
+  "fetched_note": "Medium RSS typically returns full author archive when small; verify count against profile.",
+  "count": 9,
+  "articles": [
+    {
+      "title": "building the great indian century\u200b!",
+      "slug": "building-the-great-indian-century-5e6dfa4c94de",
+      "url": "https://makriman.medium.com/building-the-great-indian-century-5e6dfa4c94de",
+      "guid": "https://medium.com/p/5e6dfa4c94de",
+      "published_utc": "2023-12-03T17:50:29Z",
+      "published_date": "2023-12-03",
+      "pubDate_raw": "Sun, 03 Dec 2023 17:50:29 GMT",
+      "updated_utc": "2023-12-03T17:50:29.862Z",
+      "categories": [
+        "data",
+        "india",
+        "ai"
+      ]
+    },
+    {
+      "title": "The Paradox of Independence: Are We Truly Decolonised?",
+      "slug": "the-paradox-of-independence-are-we-truly-decolonised-d2a0477064b7",
+      "url": "https://makriman.medium.com/the-paradox-of-independence-are-we-truly-decolonised-d2a0477064b7",
+      "guid": "https://medium.com/p/d2a0477064b7",
+      "published_utc": "2023-08-01T08:50:17Z",
+      "published_date": "2023-08-01",
+      "pubDate_raw": "Tue, 01 Aug 2023 08:50:17 GMT",
+      "updated_utc": "2023-08-01T09:02:17.681Z",
+      "categories": [
+        "india"
+      ]
+    },
+    {
+      "title": "5 years after the United States removed restrictions on Modi for the Gujrat riots and started\u2026",
+      "slug": "5-years-after-the-united-states-removed-restrictions-on-modi-for-the-gujrat-riots-and-started-43429f92a246",
+      "url": "https://makriman.medium.com/5-years-after-the-united-states-removed-restrictions-on-modi-for-the-gujrat-riots-and-started-43429f92a246",
+      "guid": "https://medium.com/p/43429f92a246",
+      "published_utc": "2019-05-13T09:35:39Z",
+      "published_date": "2019-05-13",
+      "pubDate_raw": "Mon, 13 May 2019 09:35:39 GMT",
+      "updated_utc": "2019-05-13T09:35:39.194Z",
+      "categories": []
+    },
+    {
+      "title": "Ever thought why you're seeing Facebook ADs about thinks you only told your best friend on your\u2026",
+      "slug": "ever-thought-why-youre-seeing-facebook-ads-about-thinks-you-only-told-your-best-friend-on-your-9c6a3c7da52",
+      "url": "https://makriman.medium.com/ever-thought-why-youre-seeing-facebook-ads-about-thinks-you-only-told-your-best-friend-on-your-9c6a3c7da52",
+      "guid": "https://medium.com/p/9c6a3c7da52",
+      "published_utc": "2019-05-13T09:33:50Z",
+      "published_date": "2019-05-13",
+      "pubDate_raw": "Mon, 13 May 2019 09:33:50 GMT",
+      "updated_utc": "2019-05-13T09:33:50.036Z",
+      "categories": []
+    },
+    {
+      "title": "Its India\u2019s flawed electorate system that elects it\u2019s flawed governments.",
+      "slug": "its-indias-flawed-electorate-system-that-elects-it-s-flawed-governments-38346e230352",
+      "url": "https://makriman.medium.com/its-indias-flawed-electorate-system-that-elects-it-s-flawed-governments-38346e230352",
+      "guid": "https://medium.com/p/38346e230352",
+      "published_utc": "2019-05-13T09:15:15Z",
+      "published_date": "2019-05-13",
+      "pubDate_raw": "Mon, 13 May 2019 09:15:15 GMT",
+      "updated_utc": "2019-05-14T14:47:25.852Z",
+      "categories": [
+        "politics"
+      ]
+    },
+    {
+      "title": "Is it socialism or democracy that failed in Venezuela?",
+      "slug": "is-it-socialism-or-democracy-that-failed-in-venezuela-d40dc55b3bbf",
+      "url": "https://makriman.medium.com/is-it-socialism-or-democracy-that-failed-in-venezuela-d40dc55b3bbf",
+      "guid": "https://medium.com/p/d40dc55b3bbf",
+      "published_utc": "2019-04-08T08:33:39Z",
+      "published_date": "2019-04-08",
+      "pubDate_raw": "Mon, 08 Apr 2019 08:33:39 GMT",
+      "updated_utc": "2019-04-08T08:33:39.539Z",
+      "categories": [
+        "politics",
+        "socialism",
+        "venezuelan-politics",
+        "venezuela"
+      ]
+    },
+    {
+      "title": "As a millennial socially aware Indian, what does the Indian Elections mean for me?",
+      "slug": "as-a-millennial-socially-aware-indian-what-does-the-indian-elections-mean-for-me-d16196a931a6",
+      "url": "https://makriman.medium.com/as-a-millennial-socially-aware-indian-what-does-the-indian-elections-mean-for-me-d16196a931a6",
+      "guid": "https://medium.com/p/d16196a931a6",
+      "published_utc": "2019-04-08T00:46:34Z",
+      "published_date": "2019-04-08",
+      "pubDate_raw": "Mon, 08 Apr 2019 00:46:34 GMT",
+      "updated_utc": "2019-04-08T12:37:59.308Z",
+      "categories": [
+        "indian-general-election",
+        "indian-politics",
+        "india",
+        "bjp",
+        "narendra-modi"
+      ]
+    },
+    {
+      "title": "Floods and secularity",
+      "slug": "floods-and-secularity-48dce196fc61",
+      "url": "https://makriman.medium.com/floods-and-secularity-48dce196fc61",
+      "guid": "https://medium.com/p/48dce196fc61",
+      "published_utc": "2018-09-20T00:00:00Z",
+      "published_date": "2018-09-20",
+      "pubDate_raw": "Thu, 20 Sep 2018 00:00:00 GMT",
+      "updated_utc": "2019-04-08T08:35:22.404Z",
+      "categories": [
+        "indian-politics",
+        "secularism",
+        "india",
+        "kerala-floods-2018",
+        "kerala"
+      ]
+    },
+    {
+      "title": "Life is a Paradox",
+      "slug": "life-is-a-paradox-5410a1f26b92",
+      "url": "https://makriman.medium.com/life-is-a-paradox-5410a1f26b92",
+      "guid": "https://medium.com/p/5410a1f26b92",
+      "published_utc": "2017-08-30T00:00:00Z",
+      "published_date": "2017-08-30",
+      "pubDate_raw": "Wed, 30 Aug 2017 00:00:00 GMT",
+      "updated_utc": "2019-04-08T00:49:38.628Z",
+      "categories": [
+        "social-justice",
+        "philosophy",
+        "life",
+        "social-struggle",
+        "social-structures"
+      ]
+    }
+  ]
+}
