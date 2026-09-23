@@ -1,27 +1,27 @@
 ---
 name: Feature request
-about: Suggest an improvement
+about: Suggest a change to the profile README or docs
 title: "[Feature] "
 labels: enhancement
 assignees: ""
 ---
 
-## What should this help people do?
+## What should this help a reader do?
 
-Describe the user problem or opportunity.
+Describe the gap in the profile README or the docs.
 
-## Proposed solution
+## Proposed change
 
 What would you like to see?
 
 ## Why it matters
 
-How does this make the project more useful, reliable, accessible, or understandable?
+How does this make the profile clearer or the docs more accurate?
 
-## Alternatives considered
+## Alternatives
 
-Any simpler approaches or tradeoffs?
+Any simpler wording, or a link that already covers it?
 
-## Screenshots or references
+## References
 
-Add visuals, sketches, links, or examples if useful.
+Links or examples, if useful.
